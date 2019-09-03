@@ -6,7 +6,13 @@ namespace Maxwell1_HelloWorld
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+          //Display Hello World 
+
+            Console.WriteLine(" Hello World!");
+
+            //Short Introduction 
+
+            Console.WriteLine(" My name is Alysia Maxwell and I am a Graduating Senior Majoring in Buisness Analytics and Information Systems."); 
         }
     }
 }
