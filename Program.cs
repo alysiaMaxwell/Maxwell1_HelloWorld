@@ -6,13 +6,19 @@ namespace Maxwell1_HelloWorld
     {
         static void Main(string[] args)
         {
-          //Display Hello World 
+            //Pause to display hello world 
 
-            Console.WriteLine(" Hello World!");
+            Console.WriteLine("Press any key to continue...");
 
-            //Short Introduction 
+            // Allow user to press key before display  
 
-            Console.WriteLine(" My name is Alysia Maxwell and I am a Graduating Senior Majoring in Buisness Analytics and Information Systems."); 
+            Console.ReadLine(); 
+
+            //Display Hello World 
+
+            Console.WriteLine(" Hello World!"); 
+
         }
+
     }
 }
